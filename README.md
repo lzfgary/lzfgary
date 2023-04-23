@@ -1,6 +1,6 @@
 ### Hi!
 
-🔭 I’m currently working on ...
+🖥 I’m currently working on ...
 <!--START_SECTION:waka-->
 ```text
 C++          25 hrs 25 mins  ███████████████████████░░   92.24 %
